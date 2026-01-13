@@ -1,7 +1,7 @@
 # 🚀 Custom CLIP: High-Performance Vision-Language Model
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-blue)](https://huggingface.co/YOUR_HF_USERNAME/YOUR_MODEL_NAME)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-blue)](https://huggingface.co/MuhammedKsee/custom-clip-vit-b-coco)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-orange)](https://pytorch.org/)
 
@@ -78,7 +78,7 @@ Comparison between the standard **OpenAI CLIP (ViT-B/16)** and this **Custom Opt
 
 Due to GitHub's file size limits, the pre-trained model weights (`best_model.pt`) are hosted on **Hugging Face**.
 
-👉 **Download Link:** [Hugging Face Model Repository](https://huggingface.co/YOUR_HF_USERNAME/YOUR_MODEL_NAME)
+👉 **Download Link:** [Hugging Face Model Repository](https://huggingface.co/MuhammedKsee/custom-clip-vit-b-coco)
 
 **Instructions:**
 1.  Download the `best_model.pt` file from the link above.
