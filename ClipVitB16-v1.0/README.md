@@ -1,4 +1,4 @@
-# 🚀 Custom CLIP: High-Performance Vision-Language Model
+<img width="1176" height="749" alt="Ekran görüntüsü 2026-01-13 232819" src="https://github.com/user-attachments/assets/5525d12e-4dde-4229-8be7-fd3f028a277a" /># 🚀 Custom CLIP: High-Performance Vision-Language Model
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-blue)](https://huggingface.co/MuhammedKsee/custom-clip-vit-b-coco)
@@ -114,6 +114,10 @@ text_prompts = [
 if model:
     predict(model, image_file, text_prompts)
 ```
+## 🖼️ Inference Example
+Here is the result of the model identifying an octopus in a zero-shot classification task:
+
+![Model Result](<img width="1176" height="749" alt="image png" src="https://github.com/user-attachments/assets/048be30e-7431-449a-8417-6bb39b568bf8" />)
 
 ## 🏋️‍♂️ Training Details
 **Dataset:** COCO 2017 (Common Objects in Context)
