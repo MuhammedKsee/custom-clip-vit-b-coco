@@ -115,14 +115,14 @@ if model:
     predict(model, image_file, text_prompts)
 ```
 
-##🏋️‍♂️ Training Details
+## 🏋️‍♂️ Training Details
 **Dataset:** COCO 2017 (Common Objects in Context)
 
 **Loss Function:** Symmetric Cross-Entropy with Label Smoothing (0.1)
 
 **Optimizer:** AdamW with Cosine Annealing Learning Rate
 
-##📜 License & Citation
+## 📜 License & Citation
 **Source Code**
 The source code in this repository is licensed under the MIT License. You are free to use, modify, and distribute it with proper attribution.
 
