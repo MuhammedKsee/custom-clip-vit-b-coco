@@ -205,3 +205,21 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Models 
+*.pt
+*.pth
+*.bin
+*.ckpt
+*.h5
+best_model.pt
+last_model.pt
+
+# (Datasets)
+# coco/
+# datasets/
+data/
+
+# 3. İŞLETİM SİSTEMİ ÇÖPLERİ
+.DS_Store
+Thumbs.db
