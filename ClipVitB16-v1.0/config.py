@@ -21,4 +21,4 @@ class HParams:
     # ============================================================
     DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
     MODEL_PATH = "best_model.pt"          # Path to the downloaded model weights
-    TEST_IMAGE = "images/test_image.jpg"  # Default test image path
+    TEST_IMAGE = "image.png"  # Default test image path
