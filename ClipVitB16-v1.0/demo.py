@@ -9,11 +9,11 @@ if __name__ == "__main__":
         # 2. Define Test Prompts (Classes)
         # You can change these to whatever you want to test
         test_labels = [
-            "a photo of a cat", 
-            "a photo of a dog", 
-            "a photo of a sports car",
-            "a photo of a pizza",
-            "a photo of a laptop computer"
+            "a photo of a cat on the grass", 
+            "a photo of a dog on the grass", 
+            "a photo of a sports car on the road",
+            "a photo of a octopus in the water",
+            "a photo of a laptop computer on the table"
         ]
         
         # 3. Run Prediction
