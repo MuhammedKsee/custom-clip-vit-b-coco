@@ -62,7 +62,7 @@ Comparison between the standard **OpenAI CLIP (ViT-B/16)** and this **Custom Opt
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/MuhammedKsee/custom-clip-vit-b-coco.git](https://github.com/MuhammedKsee/custom-clip-vit-b-coco.git)
+    git clone https://github.com/MuhammedKsee/custom-clip-vit-b-coco.git
     cd custom-clip-vit-b-coco
     ```
 
