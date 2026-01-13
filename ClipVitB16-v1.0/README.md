@@ -116,8 +116,8 @@ if model:
 ```
 ## 🖼️ Inference Example
 Here is the result of the model identifying an octopus in a zero-shot classification task:
-
-![Model Result](<img width="1176" height="749" alt="image png" src="https://github.com/user-attachments/assets/048be30e-7431-449a-8417-6bb39b568bf8" />)
+**Model Result:**
+<img width="1176" height="749" alt="image png" src="https://github.com/user-attachments/assets/048be30e-7431-449a-8417-6bb39b568bf8" />
 
 ## 🏋️‍♂️ Training Details
 **Dataset:** COCO 2017 (Common Objects in Context)
