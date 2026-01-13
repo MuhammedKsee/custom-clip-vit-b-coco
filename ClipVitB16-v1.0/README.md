@@ -1,4 +1,4 @@
-<img width="1176" height="749" alt="Ekran görüntüsü 2026-01-13 232819" src="https://github.com/user-attachments/assets/5525d12e-4dde-4229-8be7-fd3f028a277a" /># 🚀 Custom CLIP: High-Performance Vision-Language Model
+🚀 Custom CLIP: High-Performance Vision-Language Model
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-blue)](https://huggingface.co/MuhammedKsee/custom-clip-vit-b-coco)
