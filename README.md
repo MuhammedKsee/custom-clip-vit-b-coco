@@ -129,8 +129,10 @@ The source code in this repository is licensed under the MIT License. You are fr
 **Model Weights**
 The pre-trained weights hosted on Hugging Face are licensed under CC-BY 4.0.
 
-Citation: If you use this work in your research or project, please cite it as follows:
+**Citation:**
+If you use this work in your research or project, please cite it as follows:
 
+```bibtex
 @misc{kose2026customclip,
   author = {Köse, Muhammed},
   title = {Custom CLIP: Optimized Vision-Language Model},
@@ -139,4 +141,3 @@ Citation: If you use this work in your research or project, please cite it as fo
   journal = {GitHub repository},
   howpublished = {\url{https://github.com/MuhammedKsee/custom-clip-vit-b-coco}}
 }
-
