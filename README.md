@@ -58,5 +58,6 @@ If you use the implementations in this repository, please cite the project as fo
   journal = {GitHub repository},
   howpublished = {\url{[https://github.com/MuhammedKsee/custom-clip-vit-b-coco](https://github.com/MuhammedKsee/custom-clip-vit-b-coco)}}
 }
-📄 License
+```
+## 📄 License
 This repository is licensed under the MIT License.
